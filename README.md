@@ -1,18 +1,102 @@
+# 👋 Hi, I'm KRISHNA BHANDARI
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-bhandari) 
+### 🤖 AI & Machine Learning Enthusiast | 📊 Data Science | 💻 C++ DSA
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KRISHNA-GIT77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KRISHNA-GIT77&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-GIT77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm passionate about **Artificial Intelligence, Machine Learning, Data Science, and Problem Solving**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KRISHNA-GIT77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I enjoy working with data, building machine learning models, visualizing insights, and solving algorithmic problems using C++.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KRISHNA-GIT77&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔗 Where to find me
+
+<p align="center">
+
+<a href="https://github.com/KRISHNA-GIT77">
+<img src="https://img.shields.io/badge/GitHub-KRISHNA--GIT77-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krishna-bhandari-642a32325">
+<img src="https://img.shields.io/badge/LinkedIn-Krishna%20Bhandari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🧠 Areas I Work In
+
+### 🤖 Artificial Intelligence & Machine Learning
+- Machine Learning
+- Predictive Modeling
+- Classification
+- Regression
+- Model Evaluation
+- Feature Engineering
+
+### 📊 Data Science
+- Data Analysis
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Statistical Analysis
+
+### 💻 Problem Solving
+- Data Structures & Algorithms
+- Competitive Programming
+- Problem Solving with C++
+
+---
+
+# 🛠️ Tech I Use
+
+### 🐍 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp" />
+</p>
+
+### 📊 Data Science & Visualization
+
+<p>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+</p>
+
+### 🤖 Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+</p>
+
+### 🔧 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+🤖 Machine Learning
+🧠 Artificial Intelligence
+📊 Data Science
+🐍 Advanced Python
+💻 Data Structures & Algorithms
+⚡ C++
+📈 Data Visualization
