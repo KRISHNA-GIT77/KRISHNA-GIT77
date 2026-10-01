@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm KRISHNA BHANDARII
+# KRISHNA BHANDARI
 
-### 🤖 AI/ML Enthusiast • 📊 Data Science • 💻 C++ & DSA
+### AI/ML Enthusiast • Data Science • C++ & DSA
 
 </div>
 
@@ -71,11 +71,3 @@
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-### 🤖 AI • 📊 Data • 💻 Code
-
-</div>
