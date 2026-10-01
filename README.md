@@ -1,14 +1,14 @@
-# 👋 Hi, I'm KRISHNA BHANDARI
+# 👋 Hi, I'm KRISHNA BHANDARII
 
-### 🤖 AI & Machine Learning Enthusiast | 📊 Data Science | 💻 C++ DSA
+### 🤖 Aspiring AI/ML Engineer | 📊 Data Science | 💻 C++ & DSA
 
 I'm passionate about **Artificial Intelligence, Machine Learning, Data Science, and Problem Solving**.
 
-I enjoy working with data, building machine learning models, visualizing insights, and solving algorithmic problems using C++.
+I enjoy working with data, building machine learning models, creating meaningful visualizations, and solving algorithmic problems using C++.
 
 ---
 
-## 🔗 Where to find me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -24,45 +24,49 @@ I enjoy working with data, building machine learning models, visualizing insight
 
 ---
 
-# 🧠 Areas I Work In
+# 🧠 About Me
 
-### 🤖 Artificial Intelligence & Machine Learning
-- Machine Learning
-- Predictive Modeling
-- Classification
-- Regression
-- Model Evaluation
-- Feature Engineering
-
-### 📊 Data Science
-- Data Analysis
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Statistical Analysis
-
-### 💻 Problem Solving
-- Data Structures & Algorithms
-- Competitive Programming
-- Problem Solving with C++
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 📊 Interested in **Data Science & Data Analysis**
+* 🐍 Working primarily with **Python**
+* 💻 Practicing **Data Structures & Algorithms in C++**
+* 📈 Enjoy creating **data visualizations**
+* 🧠 Continuously learning and building ML projects
+* 🚀 Focused on improving my problem-solving and technical skills
 
 ---
 
-# 🛠️ Tech I Use
+# 🛠️ Tech Stack
 
-### 🐍 Programming Languages
+## 🐍 Programming Languages
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=python,cpp" />
+
 </p>
 
-### 📊 Data Science & Visualization
+## 🤖 Machine Learning
 
-<p>
+<p align="left">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+</p>
+
+## 📊 Data Science & Analysis
+
+<p align="left">
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+</p>
+
+## 📈 Data Visualization
+
+<p align="left">
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -72,19 +76,104 @@ I enjoy working with data, building machine learning models, visualizing insight
 
 </p>
 
-### 🤖 Machine Learning
+## 🔧 Tools & Environment
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode" />
 
 </p>
 
-### 🔧 Tools
+---
 
-<p>
+# 💻 Data Structures & Algorithms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+I practice **DSA using C++** and focus on improving my problem-solving skills.
+
+### 📚 Topics
+
+* Arrays
+* Strings
+* Linked Lists
+* Stacks & Queues
+* Recursion
+* Searching & Sorting
+* Hashing
+* Trees
+* Graphs
+* Dynamic Programming
+* C++ STL
+
+---
+
+# 📊 Machine Learning
+
+My current ML workflow includes:
+
+```text
+📥 Data Collection
+      ↓
+🧹 Data Cleaning
+      ↓
+🔎 Exploratory Data Analysis
+      ↓
+📊 Data Visualization
+      ↓
+⚙️ Feature Engineering
+      ↓
+🤖 Model Training
+      ↓
+📈 Model Evaluation
+      ↓
+🚀 Improvement
+```
+
+---
+
+# 🚀 Projects
+
+## 🧠 ML Demo
+
+A machine learning project where I experiment with data analysis, visualization, and machine learning workflows using Python.
+
+🔗 **Repository:**
+https://github.com/KRISHNA-GIT77/ml_demo
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KRISHNA-GIT77&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=KRISHNA-GIT77&theme=dark&hide_border=false" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-GIT77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KRISHNA-GIT77&theme=darkhub&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/KRISHNA-GIT77/KRISHNA-GIT77/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -93,10 +182,33 @@ I enjoy working with data, building machine learning models, visualizing insight
 # 📚 Currently Learning
 
 ```text
-🤖 Machine Learning
-🧠 Artificial Intelligence
+🤖 Artificial Intelligence
+🧠 Machine Learning
 📊 Data Science
+📈 Advanced Data Visualization
 🐍 Advanced Python
 💻 Data Structures & Algorithms
 ⚡ C++
-📈 Data Visualization
+```
+
+---
+
+# 🎯 My Goal
+
+> **Learn → Build → Solve → Improve**
+
+I'm continuously learning, building projects, and improving my skills in **AI, Machine Learning, Data Science, and DSA**.
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=KRISHNA-GIT77&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</p>
